@@ -2,7 +2,7 @@
 
 signed char subtract(signed char a, signed char b) {
   /* Returns the result of `a - b`
-   * this function may only use the folling
+   * this function may only use the following operations
    * 
    * - addition `+`
    * - bitwise complement `~`
