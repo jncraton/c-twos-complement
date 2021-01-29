@@ -6,6 +6,8 @@ signed char subtract(signed char a, signed char b) {
    * 
    * - addition `+`
    * - bitwise complement `~`
+   * - bitwise and `&`
+   * - bitwise or `|`
    */
 
   return 0;
